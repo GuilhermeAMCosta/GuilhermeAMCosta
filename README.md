@@ -8,5 +8,3 @@ A Tech Leader and Back-end Software Engineer 👨‍💻 passionated about Compu
 - 🔭 I’m currently working with Python 🐍 and Golang.
 - 🌱 I’m currently learning everything.
 - 🤔 I’m living a nomad life.
-- 💬 Ask me if I like Java...
-- 😄 Pronouns: _**[He/Him](https://pronoun.is/he)**_.
